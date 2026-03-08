@@ -1,12 +1,12 @@
-# CVE Sentinel Scraper
+# OSINT Threat Intelligence Collector
 
 ## Descripción
 Este es un proyecto de **automatización OSINT** (Open Source Intelligence) desarrollado para recolectar y centralizar información sobre las últimas vulnerabilidades publicadas. La herramienta realiza un web scraping de fuentes públicas para extraer datos críticos, permitiendo un monitoreo rápido de nuevas amenazas.
 
 Este proyecto forma parte de mi portafolio como estudiante de Licenciatura en Ciberseguridad, Resaltando:
-# Automatización con Python.
-# Recolección de inteligencia de amenazas.
-# Manejo y estructuración de datos.
+* Automatización con Python.
+* Recolección de inteligencia de amenazas.
+* Manejo y estructuración de datos.
 
 ## Funcionalidades
 * **Extracción Automática:** Obtiene los últimos IDs de CVE, descripciones y niveles de severidad.
