@@ -3,7 +3,7 @@
 ## Descripción
 Este es un proyecto de **automatización OSINT** (Open Source Intelligence) desarrollado para recolectar y centralizar información sobre las últimas vulnerabilidades publicadas. La herramienta realiza un web scraping de fuentes públicas para extraer datos críticos, permitiendo un monitoreo rápido de nuevas amenazas.
 
-Este proyecto forma parte de mi portafolio como estudiante de Licenciatura en Ciberseguridad, Resaltando:
+## Resaltando:
 * Automatización con Python.
 * Recolección de inteligencia de amenazas.
 * Manejo y estructuración de datos.
@@ -30,6 +30,12 @@ Este proyecto forma parte de mi portafolio como estudiante de Licenciatura en Ci
 
 3. **Instalar Dependencias**
     * pip install -r requirements.txt
+
+
+
+
+
+
 
 
 Developed by Frank Isai Morales
