@@ -22,7 +22,7 @@ Este es un proyecto de **automatización OSINT** (Open Source Intelligence) desa
 
 ## Requisitos e Instalación
 1. **Clonar el repositorio:**
-   * git clone [https://github.com/FIsaimorales/Web-scraper-CS.git](https://github.com/FIsaimorales/Web-scraper-CS.git)
+   * git clone [https://github.com/FIsaimorales/OSINT.Threat.Intelligence.Collector.git](https://github.com/FIsaimorales/OSINT.Threat.Intelligence.Collector.git)
 
 2. **Crear y activar entorno virtual**
     * python -m venv venv
