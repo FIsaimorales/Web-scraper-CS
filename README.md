@@ -15,7 +15,8 @@ Este proyecto forma parte de mi portafolio como estudiante de Licenciatura en Ci
 
 ## Tecnologías utilizadas
 * **Lenguaje:** Python 3.14.2
-* **Librerías:** * `BeautifulSoup4` para (Parsing de HTML)
+* **Librerías:**
+    * `BeautifulSoup4` para (Parsing de HTML)
     * `Requests` para (Peticiones HTTP)
     * `Pandas` para (Estructuración de datos)
 
@@ -31,4 +32,4 @@ Este proyecto forma parte de mi portafolio como estudiante de Licenciatura en Ci
     * pip install -r requirements.txt
 
 
-Desarrollado por: Frank Isai Morales
+Developed by Frank Isai Morales
